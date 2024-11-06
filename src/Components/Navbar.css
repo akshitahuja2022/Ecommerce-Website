@@ -1,0 +1,25 @@
+.nav {
+  font-size: 1.2rem;
+}
+
+.container ul {
+  color: rgb(74, 65, 65);
+  font-family: "fangsong";
+}
+.dropdown-menu {
+  font-size: 1.15rem;
+  color: black;
+  font-family: "fangsong";
+}
+.search {
+  margin-left: 3rem;
+}
+.logo {
+  margin-left: -0.5rem;
+}
+.cart p {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 0.6rem;
+}
