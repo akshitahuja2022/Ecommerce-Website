@@ -1,1 +1,2 @@
 # Ecommerce-Website
+Developed a responsive and engaging ecommerce website frontend using React.js, emphasizing user-friendly design and smooth navigation. Integrated key features such as dynamic product listings, search functionality, and a real-time shopping cart. Utilized React Hooks and Context API for efficient state management, enhancing performance and interactivity. Ensured cross-platform compatibility, providing a consistent user experience on both mobile and desktop devices.
